@@ -1,0 +1,5 @@
+This notebook focuses on the Dogs vs Cats dataset classification.
+Dataset is downloaded from https://www.microsoft.com/en-us/download/confirmation.aspx?id=54765
+Then the data is seperated into training and testing with shuffling the dataset.
+A simple CNN model involving 3 Convolutional Layers is created and the data is fed using the ImageDatagenerator.
+The model is trained for 20 epochs.
